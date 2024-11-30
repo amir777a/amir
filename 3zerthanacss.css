@@ -1,0 +1,9 @@
+    .all {
+        background-color: blanchedalmond;
+        background-image: url(bg-1.png);
+    }
+    p {
+        margin-left: 600px;
+        margin-top: 250px;
+        font-size: xx-large;
+    }
